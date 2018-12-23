@@ -1,0 +1,7 @@
+java:
+elapsed time: 4.515s (100x)
+elapsed time: 438.515s (10000x)
+
+qt:
+ elapsed time: 5.401s (100x)
+ elapsed time:  441.058 s (10000x)
